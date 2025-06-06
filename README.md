@@ -17,4 +17,5 @@ Features used:
 
 ## How to Run
 1. Clone or download the repo.
-2. Install required packages 
+2. Install required packages:
+   pip install -r requirements.txt
